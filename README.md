@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Mechatronic Engineering and the Founder & CTO of **Embotics**, where I build systems that combine AI, computer vision, and embedded hardware to solve real-world problems — from automated recycling infrastructure to industrial solution.
+I'm a Mechatronic Engineering and the Founder & CTO of **Embotics**, where I build systems that combine AI, computer vision, and embedded hardware to solve real-world problems from automated recycling infrastructure to industrial solution.
 
 I work across the full stack of an intelligent hardware product: training the vision model, writing the embedded firmware that runs it, and building the mobile/cloud layer that connects the two.
 
