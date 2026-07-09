@@ -34,16 +34,15 @@ Flutter · React · Nodejs · Firebase
 
 | Project | Description | Stack |
 |---|---|---|
-| 🌐 **Embotics Website** | Official website for Embotics — showcasing the company's AI, IoT, and robotics products and engineering work | Web (HTML/CSS/JS or your framework) |
-| ♻️ **Embotics Reverse Vending Machine** | IoT-based smart recycling hardware — ESP32-controlled machine that accepts PET bottles, processes them, and generates verified transaction data for reward payouts | ESP32, IoT, Embedded C/C++ |
+| 🌐 **Embotics Website** | Official green‑tech company site showcasing the AI‑powered Reverse Vending Machine, engineering services, and sustainability mission | React · TypeScript · Vite · Tailwind CSS · Framer Motion · Firebase Firestore · Firebase Hosting · Lucide Icons |
+| ♻️ Embotics Smart Reverse Vending Machine | AI-powered IoT Reverse Vending Machine that uses an ESP32-CAM for PET bottle detection and classification, an ESP32 for automated color sorting and crushing, a DWIN touchscreen for user interaction, and QR-based reward redemption via the Embotics mobile app. | ESP32, ESP32-CAM, Embedded C/C++, Computer Vision, IoT, DWIN HMI |
 | 📱 **Green Wallet App** | Flutter mobile companion app for the Reverse Vending Machine — QR verification, Firebase-backed digital wallet, and reward withdrawal | Flutter, Firebase, Dart |
 | 🤖 **Autonomous & Embedded Robotics (Line Follower, RC Car, Obstacle Avoidance)** | A collection of foundational embedded robotics builds — line-following navigation, RC-controlled driving, and ultrasonic-based obstacle avoidance — covering core sensor-actuator control and real-time embedded logic | Arduino/ESP32, C++, Sensors (IR, Ultrasonic), Motor Drivers |
 | 📟 **Automated Meter Reading (Jetson Nano)** | Edge-deployed computer vision pipeline reading analog/digital meters on Jetson Nano | Python, OpenCV, Jetson |
-| 🤖 **RAG Techniques Comparison** | Comparative implementation of retrieval-augmented generation strategies for agentic AI applications | Python, LangChain, LLMs |
+| 🤖 **RAG Techniques Comparison** | Comparative implementation of retrieval-augmented generation strategies for agentic AI applications | Python, LangChain, LLMs 
 | 💳 **Loan Default Prediction System** | Classical ML pipeline predicting loan defaults with full EDA and class-imbalance handling | scikit-learn, pandas |
 | 💬 **Emotion Classification NLP Comparison** | TF-IDF vs. LSTM vs. BERT benchmarked on the same emotion-detection task | HuggingFace, TensorFlow |
 | ✋ **AI Hand Gesture Recognition** | Real-time gesture classification for touchless human-computer interaction | OpenCV, TensorFlow, MediaPipe |
-| 🩻 **Medical Chest X-ray Classification** | Deep learning model for chest X-ray disease classification | TensorFlow, CNN |
 | 🔧 **Railway Wheel Rim Crack Detection** | YOLOv8 segmentation model detecting hairline cracks in railway wheel rims for predictive maintenance | YOLOv8, OpenCV, PyTorch |
 ---
 
