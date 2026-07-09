@@ -1,6 +1,6 @@
 # Hi, I'm Bilal Tariq 👋
 
-### Mechatronics Engineer | Founder & CTO @ Embotics | AI, Full stack, Embedded System & IOT
+### Mechatronics Engineer | Founder & CTO @ Embotics | Building End-to-End Intelligent Systems | Full-Stack Hardware + Software Engineer
 
 ---
 
